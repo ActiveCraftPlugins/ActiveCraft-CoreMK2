@@ -1,0 +1,6 @@
+name: ActiveCraft-Core
+version: '${version}'
+main: dev.activecraft.activecraftcore.ActiveCraftCore
+api-version: 1.19
+authors: [ Silencio, CPlaiz ]
+website: activecraft.dev
